@@ -1,0 +1,17 @@
+h1 {color: #f82424;}
+img {width: 400px;;}
+#ThirdDiv {
+    width: 500px; 
+    height: 900px;
+    background-color: rgb(29, 158, 62);
+    padding: 50px;
+    border-color: mediumslateblue;border-radius: 50px; border-style: double;}
+#spanid {
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+    background: url(https://i.pinimg.com/originals/98/ff/92/98ff927c4fad7fff7a6cbaf19422b958.jpg);
+}
+div {margin:auto}
+div {text-align: center;}
